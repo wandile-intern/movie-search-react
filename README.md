@@ -12,7 +12,7 @@ Responsive design
 
 💻 Demo
 
-https://github.com/wandile-intern/movie-search-react.git
+https://wandile-intern.github.io/movie-search-react/
 
 ⚡ Technologies Used
 
